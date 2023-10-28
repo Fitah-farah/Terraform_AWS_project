@@ -14,7 +14,7 @@
 
 ## Step 2. run the following command.
 ```
-Aws config
+Aws configure
 ```
 Just enter access key and secret key copied from AWS.
 
